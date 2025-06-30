@@ -1,11 +1,22 @@
 # 💼 Projet professionnel – Luigi
 
 ## 👤 Profil actuel
-- Études en cours / formation : Développeur Full-Stack, Mimo, OpenClassroom
-- Compétences techniques principales : HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Git
-- Soft skills : Curiosité, esprit d’équipe, adaptabilité, rigueur, communication
+- Études en cours : Développeur Front-End, Mimo et OpenClassroom  
+- Compétences techniques : HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Git  
+- Soft skills : Curiosité, esprit d’équipe, adaptabilité, rigueur, communication  
 
 ---
+
+## 🎯 Mon projet professionnel
+
+### Le métier qui m’attire  
+Développeur Full-Stack, capable de créer des applications web complètes du front-end au back-end, avec une attention particulière à la qualité et à la sécurité.
+
+### Pourquoi ce choix ?  
+- Polyvalence technique qui me motive  
+- Apprentissage continu dans un domaine en constante évolution  
+- Impact direct sur le produit final  
+- Curiosité pour la cybersécurité, que je souhaite explorer ensuite
 
 ## 🎯 Objectifs
 
@@ -24,36 +35,36 @@
 - Me spécialiser progressivement en cybersécurité applicative ou DevSecOps
 - Participer à des projets innovants combinant développement et sécurité
 
+### Stratégie pour se former, candidater et se vendre  
+- Suivre des formations en ligne et réaliser des projets personnels  
+- Cibler PME/startups et ESN locales pour candidater  
+- Valoriser ma motivation, ma rigueur et mes projets lors des entretiens  
+- Maintenir un profil GitHub à jour avec des contributions visibles  
+
 ---
 
 ## 💼 Métier ciblé
-- Nom du métier : Développeur Full-Stack
-- Description en une phrase : Concevoir, développer et maintenir des applications web complètes, du front-end au back-end, avec un souci particulier pour la qualité et la sécurité.
-- Environnement de travail souhaité : PME ou startup avec une culture agile, dynamique et collaborative.
-- Raisons du choix : Intérêt pour la polyvalence technique, l’apprentissage continu et l’impact direct sur le produit final ; curiosité pour la sécurité informatique.
+- **Nom du métier :** Développeur Full-Stack  
+- **Description :** Concevoir, développer et maintenir des applications web complètes, du front-end au back-end, en assurant qualité et sécurité.  
+- **Environnement souhaité :** PME ou startup dynamique avec culture agile et collaborative.  
+- **Raisons du choix :** Polyvalence, apprentissage continu, impact produit, intérêt pour la cybersécurité.  
 
 ---
 
 ## 🔍 Offres d’emploi sélectionnées
 
 1. **Développeur Fullstack Junior H/F** – OZEO Consulting – Lesquin (59)  
-   ↳ Technologies : Java 11+, Spring Boot, TypeScript (Vue.js, React ou Angular), MongoDB/PostgreSQL/MySQL, GitHub/GitLab  
-   ↳ Méthodologie : travail en méthode agile, CI/CD  
-   ↳ Missions : conception, développement et maintenance d'applications, spécifications techniques, assurance qualité, mise en production  
-   ↳ Contrat : CDI, temps plein  
-   ↳ Rémunération : À partir de 36 000 € / an  
-   ↳ Avantages : RTT, titres-restaurant, indemnités télétravail, prise en charge transport, mutuelle/prévoyance  
-   ↳ Environnement : équipe dynamique, forte culture de partage, opportunités d’évolution (Lead Dev, Tech Lead, Architecte)  
-   ↳ Lien : [Offre sur Indeed](https://fr.indeed.com/viewjob?jk=ac36f5617776eab9&from=shareddesktop_copy)  
+   ↳ Java 11+, Spring Boot, TypeScript, MongoDB/PostgreSQL, méthode agile, CI/CD  
+   ↳ CDI, 36 000 €/an, RTT, tickets resto, télétravail, mutuelle  
+   ↳ Équipe dynamique avec évolution possible (Lead Dev, Tech Lead)  
+   ↳ [Offre Indeed](https://fr.indeed.com/viewjob?jk=ac36f5617776eab9&from=shareddesktop_copy)
 
-
-2. **Alternance Full Stack Developer H/F** – Automotive Cells Company (ACC) – Billy-Berclau (62)  
-   ↳ Technologies : React, Redux, JavaScript, TypeScript, Python, Node.js, PostgreSQL  
-   ↳ Contrat : Alternance (12 mois)  
-   ↳ Rémunération : 486,49 € à 1 801,80 € / mois (selon âge et niveau d'études)  
-   ↳ Avantages : titres-restaurant (prise en charge de 7 €/jour), Plan Épargne Retraite, retraite complémentaire, accès gratuit à l'application GoFluent pour développer les compétences en anglais  
-   ↳ Environnement : site de production à 30 min de Lille, connecté à Paris, Londres et Bruxelles par le TGV et 3 autoroutes, doté de technologies de pointe, dans un environnement international et entouré d'espaces verts  
-   ↳ Lien : [Offre sur HelloWork](https://www.hellowork.com/fr-fr/emplois/67359337.html)  
+2. **Alternance Full Stack Developer H/F** – Automotive Cells Company – Billy-Berclau (62)  
+   ↳ React, Redux, JavaScript, Python, Node.js, PostgreSQL  
+   ↳ Contrat alternance (12 mois), rémunération selon âge et diplôme  
+   ↳ Avantages : tickets resto, épargne retraite, formation anglais GoFluent  
+   ↳ Environnement international et technologique  
+   ↳ [Offre HelloWork](https://www.hellowork.com/fr-fr/emplois/67359337.html)
 
 ---
 
@@ -61,7 +72,6 @@
 - Points marquants :  
   -  
 - Ce que j’ai appris :  
-  - 
+  -  
 - Ce que cela change pour moi :  
-  - 
-
+  -  
