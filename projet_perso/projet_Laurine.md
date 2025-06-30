@@ -10,24 +10,21 @@
 ## 🎯 Objectifs
 
 ### 🔹 Court terme (0 à 1 an)
-- [Ex. : Développer mes compétences en front-end avec React]
-- [Ex. : Obtenir un stage dans une agence digitale]
+- 
 
 ### 🔹 Moyen terme (1 à 3 ans)
-- [Ex. : Travailler comme développeur full-stack dans une PME]
-- [Ex. : Suivre une spécialisation en cybersécurité]
+- 
 
 ### 🔹 Long terme (3 à 5+ ans)
-- [Ex. : Devenir lead développeur dans une startup ou freelance]
-- [Ex. : Créer ma propre solution web sécurisée]
+- 
 
 ---
 
 ## 💼 Métier ciblé
-- Nom du métier : (ex. Développeur Cloud)
+- Nom du métier :
 - Description en une phrase :
 - Environnement de travail souhaité :
-- Raisons du choix : (intérêt, motivation, marché...)
+- Raisons du choix :
 
 ---
 
