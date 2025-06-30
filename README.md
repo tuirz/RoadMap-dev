@@ -1,12 +1,12 @@
 # 🚀 Projet Métiers du Développement
 
 Projet réalisé par :  
-👤 Luigi
-👤 Sébastien
-👤 Laurine
+- 👤 Luigi
+- 👤 Sébastien
+- 👤 Laurine
 
-📅 Deadline : jour de pluie
-🎯 Objectif : Explorer les métiers du développement informatique, créer un projet professionnel individuel et collectif.
+- 📅 Deadline : jour de pluie
+- 🎯 Objectif : Explorer les métiers du développement informatique, créer un projet professionnel individuel et collectif.
 
 ---
 
