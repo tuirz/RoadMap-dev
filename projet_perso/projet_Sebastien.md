@@ -1,4 +1,4 @@
-# 💼 Projet professionnel – [Prénom NOM]
+# 💼 Projet professionnel – Sébastien
 
 ## 👤 Profil actuel
 - Études en cours / formation :
