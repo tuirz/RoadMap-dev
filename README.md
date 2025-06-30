@@ -5,7 +5,7 @@ Projet réalisé par :
 👤 Sébastien
 👤 Laurine
 
-📅 Deadline : 3 juillet 2025 à 8h59  
+📅 Deadline : jour de pluie
 🎯 Objectif : Explorer les métiers du développement informatique, créer un projet professionnel individuel et collectif.
 
 ---
