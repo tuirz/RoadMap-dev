@@ -6,7 +6,7 @@ Projet réalisé par :
 - 👤 Laurine
 
 > 📅 **Deadline** : jour de pluie
-> 🎯 **Objectif** : Explorer les métiers du développement informatique, créer un projet professionnel individuel et collectif.
+> - 🎯 **Objectif** : Explorer les métiers du développement informatique, créer un projet professionnel individuel et collectif.
 
 ---
 
