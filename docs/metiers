@@ -1,1 +1,43 @@
 
+# 🔧 Métiers du développement et environnements de travail
+
+Ce document présente 10 métiers du développement avec une variété d’environnements professionnels, afin d’illustrer la diversité des parcours possibles dans le secteur informatique.
+
+---
+
+## 🧑‍💻 Liste des métiers
+
+| Métier                                      | Description                                                                   | Environnement typique                                                  |
+| ------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **1. Développeur Front-End**                | Crée l’interface des sites ou applis web (HTML, CSS, JavaScript, React, etc.) | **Startup** – Équipe réduite, rythme rapide, fort focus sur l’UX       |
+| **2. Développeur Back-End**                 | Gère la logique métier, la base de données, les API (Node.js, Django, etc.)   | **ESN / SSII** – Missions variées, travail chez des clients            |
+| **3. Développeur Full-Stack**               | Combine les compétences front-end et back-end                                 | **PME** – Profils polyvalents, autonomie requise                       |
+| **4. Développeur Mobile**                   | Crée des applications Android/iOS (Kotlin, Swift, Flutter)                    | **Agence digitale** – Projets courts et multiples clients              |
+| **5. Développeur Cloud**                    | Déploie et gère des applications sur le cloud (AWS, Azure, GCP)               | **Grand groupe / DSI** – Infrastructures complexes, sécurité           |
+| **6. Développeur DevOps**                   | Automatise les déploiements, CI/CD, monitoring                                | **Scale-up** – Culture Agile, scalabilité et automatisation            |
+| **7. Développeur Sécurité / Cybersécurité** | Intègre la sécurité dans les applications et corrige les failles              | **Entreprise sensible** – Banque, santé, défense                       |
+| **8. Développeur IA / Machine Learning**    | Conçoit des modèles d’IA (scikit-learn, TensorFlow, PyTorch)                  | **Laboratoire R&D / Startup IA** – Prototypage et innovation           |
+| **9. Développeur Blockchain**               | Développe des smart contracts et dApps (Solidity, Ethereum)                   | **Startup Web3** – Projets décentralisés, forte innovation             |
+| **10. Développeur Embarqué / IoT**          | Programme des microcontrôleurs pour objets connectés (C, C++, Rust)           | **Industrie (automobile, domotique)** – Contraintes matérielles fortes |
+
+---
+
+## 🧭 Environnements de travail – Vue d'ensemble
+
+| Environnement              | Caractéristiques clés |
+|----------------------------|------------------------|
+| **Startup**                | Innovation rapide, autonomie, polyvalence |
+| **Grand groupe / DSI**     | Stabilité, spécialisation, processus rigides |
+| **ESN / SSII**             | Missions courtes, adaptation, rythme soutenu |
+| **Agence digitale**        | Créativité, multi-clients, UX design |
+| **PME**                    | Proximité, polyvalence, gestion agile |
+| **Scale-up**               | Croissance rapide, automatisation, culture DevOps |
+| **Industrie**              | Fiabilité, normes strictes, bas-niveau |
+| **Laboratoire / R&D**      | Recherche, innovation, POC |
+| **Entreprise sensible**    | Confidentialité, conformité, cybersécurité |
+| **Startup Web3**           | Décentralisation, innovation blockchain, volatilité |
+
+---
+
+> 🔎 **Remarque :** Chaque métier peut exister dans plusieurs environnements. Ce tableau illustre une correspondance typique, mais pas exclusive.
+
