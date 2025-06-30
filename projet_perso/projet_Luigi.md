@@ -2,12 +2,12 @@
 
 ## 👤 Profil actuel
 - Études en cours : Développeur Front-End, Mimo et OpenClassroom  
-- Compétences techniques : HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Git  
+- Compétences techniques : HTML, CSS, JavaScript, React, Node.js, Git, intérêts pour Express & MongoDB 
 - Soft skills : Curiosité, esprit d’équipe, adaptabilité, rigueur, communication  
 
 ---
 
-## 🎯 Mon projet professionnel
+## 🧑‍💻 Mon projet professionnel
 
 ### Le métier qui m’attire  
 Développeur Full-Stack, capable de créer des applications web complètes du front-end au back-end, avec une attention particulière à la qualité et à la sécurité.
@@ -35,19 +35,13 @@ Développeur Full-Stack, capable de créer des applications web complètes du fr
 - Me spécialiser progressivement en cybersécurité applicative ou DevSecOps
 - Participer à des projets innovants combinant développement et sécurité
 
-### Stratégie pour se former, candidater et se vendre  
+---
+
+## ♟️ Stratégie pour se former, candidater et se vendre  
 - Suivre des formations en ligne et réaliser des projets personnels  
 - Cibler PME/startups et ESN locales pour candidater  
 - Valoriser ma motivation, ma rigueur et mes projets lors des entretiens  
 - Maintenir un profil GitHub à jour avec des contributions visibles  
-
----
-
-## 💼 Métier ciblé
-- **Nom du métier :** Développeur Full-Stack  
-- **Description :** Concevoir, développer et maintenir des applications web complètes, du front-end au back-end, en assurant qualité et sécurité.  
-- **Environnement souhaité :** PME ou startup dynamique avec culture agile et collaborative.  
-- **Raisons du choix :** Polyvalence, apprentissage continu, impact produit, intérêt pour la cybersécurité.  
 
 ---
 
@@ -73,5 +67,5 @@ Développeur Full-Stack, capable de créer des applications web complètes du fr
   -  
 - Ce que j’ai appris :  
   -  
-- Ce que cela change pour moi :  
-  -  
+- Ce que cela change pour moi :
+  -
