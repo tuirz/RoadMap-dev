@@ -28,7 +28,7 @@
 ---
 
 ## 🔍 Offres d’emploi sélectionnées
-1. **Titre du poste** – Entreprise, lieu, lien vers l'offre  
+1. **Développeur Web/Mobile F/H** – Groupe Primever, Monchy le Preux, [lien vers l'offre  ](https://www.linkedin.com/jobs/view/4188840566/?alternateChannel=search&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=NHjqsecjXHE2sUL%2FsVePiA%3D%3D&trackingId=TI2zM8Ixgh%2FHCM65ZFqiqg%3D%3D&trk=d_flagship3_job_collections_discovery_landing)
    ↳ Technologies demandées, missions, date de publication...
 
 2. **Titre du poste** – Entreprise, lieu, lien vers l'offre  
