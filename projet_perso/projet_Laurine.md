@@ -97,7 +97,8 @@ Passionné par le design web et l’expérience utilisateur, j’aime voir le r�
 
 
 
-4. **Développeur(se) Frontend TS/React** – SII Nord, Lille, [lien vers l'offre](https://www.welcometothejungle.com/fr/companies/sii/jobs/developpeur-se-frontend-ts-react-lille_lille?utm_source=chatgpt.com)
+4. **Développeur(se) Frontend TS/React** – SII Nord, Lille, [lien vers l'offre](https://www.welcometothejungle.com/fr/companies/sii/jobs/developpeur-se-frontend-ts-react-lille_lille?utm_source=chatgpt.com) \
+   
    ↳ : React.js, Typescript.
    Participer aux études techniques : architecture, faisabilité, chiffrage, tout ça pour poser des bases solides.
 Développer de belles choses : du Front en TypeScript en lien avec les web components, en passant par la gestion des APIs. 
