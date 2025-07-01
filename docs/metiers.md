@@ -29,12 +29,12 @@ Ce document présente 10 métiers du développement avec une variété d’envir
 | **Startup**             | Innovation rapide, autonomie, polyvalence, difficuté d'adaptation, turn-over important        |
 | **Grand groupe / DSI**  | Stabilité, spécialisation, processus rigides, créativité et initiatives individuelles limitées        |
 | **ESN / SSII**          | Missions courtes mais variées, adaptation, rythme soutenu, developpement  du réseau       |
-| **Agence digitale**     | Créativité, multi-clients, UX design                |
-| **PME**                 | Proximité, polyvalence, gestion agile               |
-| **Scale-up**            | Croissance rapide, automatisation, culture DevOps   |
-| **Industrie**           | Fiabilité, normes strictes, bas-niveau              |
-| **Laboratoire / R\&D**  | Recherche, innovation, POC                          |
-| **Entreprise sensible** | Confidentialité, conformité, cybersécurité          |
-| **Startup Web3**        | Décentralisation, innovation blockchain, volatilité |
+| **Agence digitale**     | Créativité, multi-clients, UX design, diversité des missions, rythme de trvail intense                |
+| **PME**                 | Proximité, polyvalence, gestion agile, évolution de carrière restreinte               |
+| **Scale-up**            | Croissance rapide, automatisation, culture DevOps, manque de stabilité   |
+| **Industrie**           | Fiabilité, normes strictes, bas-niveau, technologie parfois vieillissante              |
+| **Laboratoire / R\&D**  | Recherche, innovation, POC, financement fluctuant, carrière académique                          |
+| **Entreprise sensible** | Confidentialité, conformité, cybersécurité, lenteur et lourdeur administrative,travail cloisonné         |
+| **Startup Web3**        | Décentralisation, innovation blockchain, volatilité, forte instabilité, peu de cadre ou de mentorat |
 
 > 🔎 **Remarque :** Chaque métier peut exister dans plusieurs environnements. Ce tableau illustre une correspondance typique, mais pas exclusive.
