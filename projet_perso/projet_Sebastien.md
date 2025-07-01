@@ -39,8 +39,13 @@
       
    ↳ 30/06/2025  
 
-2. **Titre du poste** – Entreprise, lieu, lien vers l'offre  
-   ↳ Technologies demandées, missions, date de publication...
+2. **Développeur Web/Mobile F/H** – Akabia, Tourcoing, [l'offre](https://www.hellowork.com/fr-fr/emplois/67269024.html)  
+   ↳ Technologies demandées : PHP, MySQL, JS, HTML5, CSS3  
+   ↳ Missions :
+   - Vous interviendrez sur l'ensemble du cycle de vie des projets de nos clients depuis les phases amont de conseil/conception, jusqu'à la mise en service des solutions
+   - Vous travaillerez sur des projets innovants, uniques, pour des clients très variés (Grands Comptes, Publiques, PME)
+      
+   ↳ 28/06/2025  
 
 ---
 
