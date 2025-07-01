@@ -22,7 +22,7 @@
 - Nom du métier : Développeur back-end
 - Description en une phrase : Le developpeur php/back-end gère la partie “non visible” de du développement 
 - Environnement de travail souhaité : PME
-- Raisons du choix : Entreprise à taille humaine
+- Raisons du choix : Lors du bilan de compétences effectué debut 2023, le choix du développement informatique c'est fait comme une évidence suite à mon expérience passée. De cette expérience est apparu une aisance avec le back-end lors de la formation de dev web - web mobile. J'apprécie la logique et la réflexion nécessaires la gestion des bases de données et la réalisation des composants métiers. Ayant déjà exercé en SSII, je souhaite maintenant évoluer dans une structure à taille humaine.
 
 ---
 
