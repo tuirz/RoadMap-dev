@@ -90,12 +90,20 @@ Passionné par le design web et l’expérience utilisateur, j’aime voir le r�
 
 
 ## 🔍 Offres d’emploi sélectionnées
-1. **Titre du poste** – Entreprise, lieu, lien vers l'offre  
-   ↳ Technologies demandées, missions, date de publication...
+1. **Stage - Développeur React F/H** – Orange, Lille , [lien vers l'offre  ](https://www.wizbii.com/company/orange/job/stage-developpeur-react-f-h?utm_source=chatgpt.com)
+2. 
+   ↳ React, Visual Studio, HTML/CSS,
+    L'objectif final étant d'être capable de synthétiser son retour d'expérience sur la technologie, pour en isoler les forces et faiblesses, concevoir une architecture simple et réutilisable et pouvoir en faire une présentation à l'équipe de développement. Le but étant d'intégrer ce module dans l'initialisation des prochains projets chez Orange.
 
 
-2. **Titre du poste** – Entreprise, lieu, lien vers l'offre  
-   ↳ Technologies demandées, missions, date de publication...
+
+4. **Développeur(se) Frontend TS/React** – SII Nord, Lille, [lien vers l'offre](https://www.welcometothejungle.com/fr/companies/sii/jobs/developpeur-se-frontend-ts-react-lille_lille?utm_source=chatgpt.com)
+   ↳ : React.js, Typescript.
+   Participer aux études techniques : architecture, faisabilité, chiffrage, tout ça pour poser des bases solides.
+Développer de belles choses : du Front en TypeScript en lien avec les web components, en passant par la gestion des APIs. 
+Développer des applis en React.js
+Réaliser les tests unitaires et fonctionnels (Jest, Playwright),
+date de publication: 10/06
 
 
 ---
