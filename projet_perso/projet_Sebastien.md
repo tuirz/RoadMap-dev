@@ -1,22 +1,21 @@
 # 💼 Projet professionnel – Sébastien
 
 ## 👤 Profil actuel
-- Études en cours / formation :
-- Compétences techniques principales :
-- Soft skills :
+- Études en cours / formation : Simplon dev-front, pré-inscrit Cesi CDA rentrée 2025
+- Compétences techniques principales : PHP, React, mariaDb
+- Soft skills : Curieux, persévérant, travail d'équipe
 
 ---
 
 ## 🎯 Objectifs
 
 ### 🔹 Court terme (0 à 1 an)
-- 
-
+- Alternance Développeur PHP / Back-end
 ### 🔹 Moyen terme (1 à 3 ans)
-- 
+- Développeur PHP / Back-end
 
 ### 🔹 Long terme (3 à 5+ ans)
-- 
+- Développeur fullstack
 
 ---
 
