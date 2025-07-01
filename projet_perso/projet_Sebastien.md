@@ -13,17 +13,16 @@
 - Alternance Développeur PHP / Back-end
 ### 🔹 Moyen terme (1 à 3 ans)
 - Développeur PHP / Back-end
-
 ### 🔹 Long terme (3 à 5+ ans)
 - Développeur fullstack
 
 ---
 
 ## 💼 Métier ciblé
-- Nom du métier :
-- Description en une phrase :
-- Environnement de travail souhaité :
-- Raisons du choix :
+- Nom du métier : Développeur back-end
+- Description en une phrase : Le developpeur php/back-end gère la partie “non visible” de du développement 
+- Environnement de travail souhaité : PME
+- Raisons du choix : Entreprise à taille humaine
 
 ---
 
