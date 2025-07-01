@@ -26,9 +26,9 @@ Ce document présente 10 métiers du développement avec une variété d’envir
 
 | Environnement           | Caractéristiques clés                               |
 | ----------------------- | --------------------------------------------------- |
-| **Startup**             | Innovation rapide, autonomie, polyvalence           |
-| **Grand groupe / DSI**  | Stabilité, spécialisation, processus rigides        |
-| **ESN / SSII**          | Missions courtes, adaptation, rythme soutenu        |
+| **Startup**             | Innovation rapide, autonomie, polyvalence, difficuté d'adaptation, turn-over important        |
+| **Grand groupe / DSI**  | Stabilité, spécialisation, processus rigides, créativité et initiatives individuelles limitées        |
+| **ESN / SSII**          | Missions courtes mais variées, adaptation, rythme soutenu, developpement  du réseau       |
 | **Agence digitale**     | Créativité, multi-clients, UX design                |
 | **PME**                 | Proximité, polyvalence, gestion agile               |
 | **Scale-up**            | Croissance rapide, automatisation, culture DevOps   |
