@@ -28,18 +28,18 @@
 ---
 
 ## 🔍 Offres d’emploi sélectionnées
-1. **Développeur Web/Mobile F/H** – Groupe Primever, Monchy le Preux, [l'offre]([https://careers.werecruit.io/fr/reseau-primever-france/offres/developpeur-webmobile-1f9e4b])
-   ↳ Technologies demandées : SYMFONY - PHP / REACT - TYPESCRIPT
+1. **Développeur Web/Mobile F/H** – Groupe Primever, Monchy le Preux, [l'offre]([https://careers.werecruit.io/fr/reseau-primever-france/offres/developpeur-webmobile-1f9e4b])  
+   ↳ Technologies demandées : SYMFONY - PHP / REACT - TYPESCRIPT  
    ↳ Missions :
    - Rédiger les spécifications techniques.
    - Développer les applications et les interfaces (SYMFONY / REACT)
    - Respecter les normes et standards.
    - Réaliser les tests unitaires.
    - Assurer la maintenance des solutions développées.
-   - Faire évoluer les solutions développées.
-   ↳ 30/06/2025
+   - Faire évoluer les solutions développées.  
+   ↳ 30/06/2025  
 
-3. **Titre du poste** – Entreprise, lieu, lien vers l'offre  
+2. **Titre du poste** – Entreprise, lieu, lien vers l'offre  
    ↳ Technologies demandées, missions, date de publication...
 
 ---
