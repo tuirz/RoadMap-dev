@@ -8,7 +8,7 @@ Ce document présente 10 métiers du développement avec une variété d’envir
 # 🔎 Exploration des Métiers du Développement
 
 | Métier                           | Missions principales                    | Compétences clés                    | Outils utilisés                 | Salaire moyen annuel | Environnement typique                       | Qualité                                        |
-| -------------------------------- | ---------------------------------------- | ----------------------------------- | ------------------------------- | ------------- | ------------------------------------------- |
+| -------------------------------- | ---------------------------------------- | ----------------------------------- | ------------------------------- | ------------- | ------------------------------------------- | ----------------------------------------------------- |
 | **Développeur Front-End**        | Création d’interfaces, responsive design | HTML, CSS, JS, React, UX/UI         | VS Code, Figma, Git, Tailwind   | 35k–60k€      | Startup ou agence web orientée UX/UI        | Créativité, rigueur, communication, curiosité    |
 | **Développeur Back-End**         | Bases de données, API, logique métier    | Node.js, Python, SQL                | PostgreSQL, Docker, Express     | 38k–70k€      | ESN / SSII                                  | Méthodologie, rigueur, communication, curiosité     |
 | **Développeur Full-Stack**       | Développement front + back               | React, Node.js, DevOps              | MERN, GitLab, Postman           | 42k–60k€      | PME                                         |
