@@ -34,7 +34,7 @@ Ce document présente 10 métiers du développement avec une variété d’envir
 | **Scale-up**            | Croissance rapide, automatisation, culture DevOps, manque de stabilité   |
 | **Industrie**           | Fiabilité, normes strictes, bas-niveau, technologie parfois vieillissante              |
 | **Laboratoire / R\&D**  | Recherche, innovation, POC, financement fluctuant, carrière académique                          |
-| **Entreprise sensible** | Confidentialité, conformité, cybersécurité, lenteur et lourdeur administrative,travail cloisonné         |
+| **Entreprise sensible** | Confidentialité, conformité, cybersécurité, lenteur et lourdeur administrative, travail cloisonné         |
 | **Startup Web3**        | Décentralisation, innovation blockchain, volatilité, forte instabilité, peu de cadre ou de mentorat |
 
 > 🔎 **Remarque :** Chaque métier peut exister dans plusieurs environnements. Ce tableau illustre une correspondance typique, mais pas exclusive.
