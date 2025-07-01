@@ -36,7 +36,7 @@
    - Respecter les normes et standards.
    - Réaliser les tests unitaires.
    - Assurer la maintenance des solutions développées.
-   - Faire évoluer les solutions développées.  
+   - Faire évoluer les solutions développées.   
    ↳ 30/06/2025  
 
 2. **Titre du poste** – Entreprise, lieu, lien vers l'offre  
