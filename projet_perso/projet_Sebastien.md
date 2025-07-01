@@ -2,7 +2,7 @@
 
 ## 👤 Profil actuel
 - Études en cours / formation : Simplon dev-front, pré-inscrit Cesi CDA rentrée 2025
-- Compétences techniques principales : PHP, React, mariaDb
+- Compétences techniques principales : PHP, React, mariaDB
 - Soft skills : Curieux, persévérant, travail d'équipe
 
 ---
